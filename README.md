@@ -3,7 +3,7 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
-A subset of `WidgetsFlutterBinding` specifically for [ServicesBinding].
+A subset of `WidgetsFlutterBinding` specifically for initializing the `ServicesBinding`.
 
 When executing `runApp` within a custom `Zone` with `zoneValues` derived from the underlying platform we rely on `WidgetsFlutterBinding.ensureInitialized()`:
 
