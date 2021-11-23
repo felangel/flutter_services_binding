@@ -1,5 +1,6 @@
 # flutter_services_binding
 
+[![ci][ci_badge]][ci_link]
 [![coverage][coverage_badge]][ci_link]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
@@ -78,6 +79,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
+[ci_badge]: https://github.com/felangel/flutter_services_binding/actions/workflows/main.yaml/badge.svg
 [ci_link]: https://github.com/felangel/flutter_services_binding/actions
 [coverage_badge]: https://raw.githubusercontent.com/felangel/flutter_services_binding/main/coverage_badge.svg
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
