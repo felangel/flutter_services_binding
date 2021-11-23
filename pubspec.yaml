@@ -1,7 +1,8 @@
 name: flutter_services_binding
-description: A Very Good Project created by Very Good CLI.
+description: A subset of WidgetsFlutterBinding specifically for ServicesBinding.
 version: 0.1.0
-publish_to: none
+repository: https://github.com/felangel/flutter_services_binding
+homepage: https://github.com/felangel/flutter_services_binding
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
