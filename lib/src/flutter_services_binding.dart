@@ -4,7 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter/services.dart';
 
-/// A subset of `WidgetsFlutterBinding` pertaining to `Services`.
+/// A subset of `WidgetsFlutterBinding` specifically for [ServicesBinding].
 /// This binding includes only the [SchedulerBinding] and [ServicesBinding]
 /// and can be used to support accessing data from the underlying platform
 /// before without initializing the `WidgetsBinding.instance`
